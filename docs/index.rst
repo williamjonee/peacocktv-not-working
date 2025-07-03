@@ -11,7 +11,7 @@ How to Fix Peacock TV Not Working? 📺
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tvpeacock.support
+   :target: https://tvpeacock.support/support.html
 ________________________
 
 Peacock TV has become a popular streaming platform, offering a variety of content including movies, TV shows, live sports, and exclusive originals. But like all digital platforms, it can sometimes run into technical hiccups. If you're experiencing Peacock TV not working issues, don’t worry — you're not alone, and there are ways to fix it.
